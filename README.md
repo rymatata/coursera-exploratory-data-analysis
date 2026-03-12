@@ -7,7 +7,7 @@ This project tasked me to explore and analyze a dataset from an online retail co
 - Learned how to load, clean, process, analyze, and visualize data using Python
 - Explored the basic statistics of the dataset
 - Identified outliers or anomalies in the dataset
-- Drew rational conclusions with facts and summarized the findings resulting from the exploratore data analysis
+- Produce rational conclusions with facts and summarized the findings resulting from the exploratore data analysis
 
 # Skills Applied
 - Python
