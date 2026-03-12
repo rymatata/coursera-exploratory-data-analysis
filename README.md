@@ -15,3 +15,6 @@ This project tasked me to explore and analyze a dataset from an online retail co
 - Matplotlib
 - Git
 - Jupyter Notebook
+
+# Reference Link
+https://coursera.org/share/be5d9d599ba484bacb80a1488c095f51
